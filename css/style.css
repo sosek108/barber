@@ -1,0 +1,55 @@
+.slider {
+    background: url("../images/jumbo2.jpg") center;
+    background-color: violet;
+    background-blend-mode: multiply;
+    height: 50vh;
+    margin-bottom: 0px !important;
+}
+.segment h2 {
+    text-align: center;
+    padding-bottom: 1em;
+}
+.service {
+    padding-top: 128px;
+    background-position: 50% 0;
+    background-size: 128px;
+    background-repeat: no-repeat;
+}
+.service-hair {
+    background-image: url('../images/icon-hair.svg');
+}
+.service-scissor {
+    background-image: url('../images/icon-scissor.svg');
+}
+.service-spray {
+    background-image: url('../images/icon-spray.svg');
+}
+
+.service {
+    text-align: center;
+}
+
+.map {
+    height: 300px;
+}
+
+.footer {
+    text-align: center;
+    color: darkgrey !important;
+    font-style: italic!important;
+    font-size: 0.8em;
+}
+.footer span {
+    margin-bottom: 0.5em;
+}
+
+a {
+    color: darkviolet;
+}
+a:hover {
+    color: violet;
+}
+
+table tr:nth-child(2n) {
+    background-color: #eeaded;
+}
