@@ -1,13 +1,15 @@
 .slider {
-    background: url("../images/jumbo2.jpg") center;
-    background-color: violet;
+    background: violet url("../images/photo_salon2.png") ;
+    background-size: 100%;
     background-blend-mode: multiply;
     height: 50vh;
     margin-bottom: 0px !important;
 }
 .segment h2 {
     text-align: center;
-    padding-bottom: 1em;
+    padding-bottom: 0.5em;
+    background-color: rgba(237,130,237,0.1);
+    padding-top: 0.5em;
 }
 .service {
     padding-top: 128px;
@@ -44,7 +46,7 @@
 }
 
 a {
-    color: darkviolet;
+    color: purple;
 }
 a:hover {
     color: violet;
