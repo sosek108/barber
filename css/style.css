@@ -26,6 +26,9 @@
 .service-spray {
     background-image: url('../images/icon-spray.svg');
 }
+.service-lyoness {
+    background-image: url('../images/lyoness.png');
+}
 
 .service {
     text-align: center;
